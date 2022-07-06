@@ -6,12 +6,12 @@ body{
 
 
  /* Banner */
-.header {
+ .header {
     background: url(image/template\ \(2\).png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center bottom;
-    padding: 200px 0 335px 0;
+    background-position: bottom bottom;
+    padding: 110px 0 214px 0;
 }
 .banner{
     color: white;
@@ -174,7 +174,8 @@ hr {
 .mission-perent {
     display: flex;
     margin-left: 12%;
-    margin-right: 12%;
+    margin-right: 15%;
+    margin-right: 17%;
 }
 .help-mission-left {
     width: 50%;
@@ -183,7 +184,7 @@ hr {
     width: 50%;
 }
 .help-mission-right img {
-    width: 110%;
+    width: 136%;
     display: block;
     margin: 10% auto auto;
     border-radius: 8px;
